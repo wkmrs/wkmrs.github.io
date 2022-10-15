@@ -1,0 +1,4 @@
+Sitemap: https://wukomarosa.tk/wkmrs.xml
+
+User-agent: *
+Disallow:
